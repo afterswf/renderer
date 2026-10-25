@@ -1048,6 +1048,9 @@ export class ShaderBase implements IShaderBase {
 		this.colorTransformIndex = ct1.index * 4;
 		this._postAnimationFragmentCode += 'mul ' + target + ', ' + target + ', ' + ct1 + '\n';
 		this._postAnimationFragmentCode += 'add ' + target + ', ' + target + ', ' + ct2 + '\n';
+		// clamp each channel as Flash does, or an alpha above 1 (e.g. alpha = 100)
+		// multiplies the colour when it's premultiplied
+		this._postAnimationFragmentCode += 'sat ' + target + ', ' + target + '\n';
 	}
 
 	/**
