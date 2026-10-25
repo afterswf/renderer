@@ -8,19 +8,19 @@
   integrity sha512-1Yjs2SvM8TflER/OD3cOjhWWOZb58A2t7wpE2S9XfBYTiIl+XFhQG2bjy4Pu1I+EAlCNUzRDYDdFwFYUKvXcIA==
 
 "@awayjs/core@^0.9.0":
-  version "0.9.42"
-  resolved "https://registry.yarnpkg.com/@awayjs/core/-/core-0.9.42.tgz#642cd93793c81667af7e5e535ef707b85861ccdf"
-  integrity sha512-knDlNLv6QQIcKwGzpnZN4Jj3UNW/3lU2VaWpnUAxGttCEYCK6sI2JRIiON9NeqICKl1k3DsPZ84DRvt31+WL1w==
+  version "0.9.61"
+  resolved "https://registry.yarnpkg.com/@awayjs/core/-/core-0.9.61.tgz#3f54a975f775e7b5130d4bec3e061a7dc32f9ec2"
+  integrity sha512-jECcXFly4bmJlvSUXJHolGGtNX7x/DxtxbamzXP1BElUvk1FRxV5vNAZtSrloe8FtFoesSIy9Usf+GBSOGQIEg==
 
 "@awayjs/stage@^0.11.0":
-  version "0.11.136"
-  resolved "https://registry.yarnpkg.com/@awayjs/stage/-/stage-0.11.136.tgz#d6b7c550470f667158fa2c108f15ca9932e84a88"
-  integrity sha512-S62OfsynZkiguSTMKuKHMgwAcu/H+e8VjVWWg/+eXhwhGf+bsIkj3kHVZo54Un8GsstuIwtLyffSpS9gQ2pnMg==
+  version "0.11.172"
+  resolved "https://registry.yarnpkg.com/@awayjs/stage/-/stage-0.11.172.tgz#e7689add6f29a0047e05c115f1472f929287a883"
+  integrity sha512-DpmhOBE4ZCOPMt39MPrag9aidLXnRkBkHZH4/0l6ms0Ua4iHvyLgR5kfIzMRAJuZnwcqFVZarLZG+g+S/X5FlA==
 
 "@awayjs/view@^0.6.0":
-  version "0.6.58"
-  resolved "https://registry.yarnpkg.com/@awayjs/view/-/view-0.6.58.tgz#78f887ccbd2e424c12d5c768b4bc5554e4a5d6cb"
-  integrity sha512-IKNUsPaHqervNgL7ZGCU/exwe3GnAlTbulOrrwWsoBOWk2Q3xWUfJ81liqTpa3dfVmObi4VM8fXhCkm0g54E9g==
+  version "0.6.90"
+  resolved "https://registry.yarnpkg.com/@awayjs/view/-/view-0.6.90.tgz#d9c0a12f25ce27f73fdaa22f46dfea253958387c"
+  integrity sha512-gBQl6r14Lm7MslF4UCnGKuFeWWuVid40kE/YmN2W3Be1zPsYPPs/fytdsZHpSO0AntktzHtJm1BlA3T+/8KWYg==
 
 "@babel/code-frame@7.12.11":
   version "7.12.11"
