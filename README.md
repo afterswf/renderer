@@ -1,4 +1,16 @@
 # AwayJS Renderer
+
+This is [Mesmotronic](https://mesmotronic.com)'s fork of [awayjs/renderer](https://github.com/awayjs/renderer) for
+[AfterSWF](https://github.com/afterswf/embed), published as [`@afterswf/renderer`](https://www.npmjs.com/package/@afterswf/renderer).
+Its fixes are listed in [AfterSWF's README](https://github.com/afterswf/embed#more-advanced-as3-content).
+
+It keeps the original package names in its imports, so install it, and any other afterswf packages you use, under
+their original names with npm aliases:
+
+```sh
+npm install @awayjs/renderer@npm:@afterswf/renderer
+```
+
 [![Build Status](https://travis-ci.org/awayjs/renderer.svg?branch=dev)](https://travis-ci.org/awayjs/renderer)
 
 Interface for scene and material modules, providing simpified rendering for complex heriarchies.
